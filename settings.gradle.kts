@@ -1,0 +1,1 @@
+rootProject.name = "com.forever.bee.ktor_web"
